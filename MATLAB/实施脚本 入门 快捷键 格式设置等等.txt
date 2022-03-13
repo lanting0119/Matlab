@@ -1,0 +1,19 @@
+检索关键词：
+在实时编辑器中创建实时脚本
+在实时编辑器中格式化文件（推荐）
+
+
+
+
+Ctrl + Alt + T：输入无格式文本
+Ctrl + Alt + L：添加标题（Title）
+Ctrl + Alt + H：添加头部（Heading）
+Ctrl + Alt + U：添加无序列表
+Ctrl + Alt + O：添加有序列表
+Ctrl + I：斜体
+Ctrl + B：粗体
+Ctrl + B, 后 Ctrl + I：粗斜体
+Ctrl + M：等宽字体
+Ctrl + U：下划线
+Ctrl + Alt + G：插入 LaTeX 公式
+Ctrl + K：超链接
